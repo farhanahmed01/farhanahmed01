@@ -1,11 +1,11 @@
 
-![Uploading image.png…]()
 
 
 
 
 
-- 👋 Hi, I’m @farhanahmed01
+
+- 👋 Hi, I’m Farhan Ahmed
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me fahanahmed51140@gmail.com
