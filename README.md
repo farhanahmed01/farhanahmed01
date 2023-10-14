@@ -1,3 +1,4 @@
+![logo](https://github.com/farhanahmed01/farhanahmed01/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Farhan Ahmed</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
