@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanahmed01&label=Profile%20views&color=0e75b6&style=flat" alt="farhanahmed01" /> </p>
 
 
-- 🔭 I’m currently working on **Mood detection machine learning model**
+- 🔭 I’m currently working on **Text-Utility React App**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **Python and Database**
 
